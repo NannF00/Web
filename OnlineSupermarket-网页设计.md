@@ -4,6 +4,10 @@
  
  - 框架用.net web application Frameworks
  - 有一个主页面/登录页面
- - 
+ - 针对Admin和Customer设计了不同的页面
+
+# P3 管理页面母版页- 商品管理界面
+
+
  
  

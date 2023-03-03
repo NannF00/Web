@@ -56,6 +56,8 @@
 
 同上
 
+Id 的用法:在网页里给控件加上ID之后,再设置runat sever, 就可以在变编程页面里使用它.比如给表赋值,用表计算...
+
 # P8 用户管理功能实现
 
 同P6
@@ -75,6 +77,9 @@
 # P11 P12 订单结算功能实现
 
 - 账单界面:商品选购-"添加至购物车"按钮,商品列表,购物车-"结算"按钮
- - 
+- ViewState:页面刷新时保存上一个更改的状态 https://cloud.tencent.com/developer/article/1381414#:~:text=ViewState%E7%9A%84%E9%80%9A%E7%94%A8%E8%A7%A3%E9%87%8A%E5%B0%B1%E6%98%AF%EF%BC%9A%E6%98%AF,ASP.NET%20%E9%A1%B5%E4%B8%AD%E7%9A%84%E5%AD%98%E5%82%A8%E5%BA%93%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%AD%98%E5%82%A8%E5%BF%85%E9%A1%BB%E5%9C%A8%E5%9B%9E%E5%8F%91%E8%BF%87%E7%A8%8B%E4%B8%AD%E4%BF%9D%E7%95%99%E7%9A%84%E5%80%BC%E3%80%82
+- 
 
 # P13 打印订单
+
+- 

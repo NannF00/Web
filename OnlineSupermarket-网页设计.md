@@ -36,6 +36,9 @@
 - SqlCommand 建立指令
 - SqlDataAdapter 表示要针对 SQL Server 数据库执行的事务处理 SQL 语句或存储过程
 
+ ![image](https://user-images.githubusercontent.com/117897416/222665965-84680d00-8be9-47fc-971d-3f88fc2b810d.png)
+
+
 功能:
 
 1. 得到所有生产商信息

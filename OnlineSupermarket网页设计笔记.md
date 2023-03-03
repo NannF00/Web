@@ -65,8 +65,9 @@
 
 - Admin 里退出键和logi挂钩
 - login 网页里写登录逻辑
-- 登录逻辑:
-  1. 发发发
+
+登录逻辑:
+- 用户名和密码正确,response到对应的页面(Admin/Customer)
 
 # P11 P12 订单结算功能实现
 

@@ -37,7 +37,8 @@
 - SqlDataAdapter 表示要针对 SQL Server 数据库执行的事务处理 SQL 语句或存储过程
 
  ![image](https://user-images.githubusercontent.com/117897416/222665965-84680d00-8be9-47fc-971d-3f88fc2b810d.png)
-
+ ![image](https://user-images.githubusercontent.com/117897416/222666242-fa9032db-adc3-4367-9f12-20f6ba59b155.png)
+ 
 
 功能:
 
